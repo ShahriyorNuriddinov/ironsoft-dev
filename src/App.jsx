@@ -6,6 +6,7 @@ import Project from "./components/Project";
 import Servises from "./components/Servises";
 import Blogs from "./components/Blogs";
 import Faq from "./components/Faq";
+import Tellus from "./components/Tellus";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Servises />
       <Blogs />
       <Faq />
+      <Tellus />
     </div>
   );
 };

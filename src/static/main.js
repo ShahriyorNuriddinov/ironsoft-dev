@@ -81,3 +81,25 @@ export let blog = [
     date: "12.08.23",
   },
 ];
+const comment = [
+  {
+    question: "Do you have all your team in-house?",
+    answer:
+      "Yes, we have a fully in-house team of experienced developers, designers, and project managers working together to deliver high-quality solutions.",
+  },
+  {
+    question: "How can I get a quote for my project?",
+    answer:
+      "You can contact us through our website form, email, or phone. We'll schedule a free consultation to understand your requirements and provide a detailed quote.",
+  },
+  {
+    question: "How can I control the project?",
+    answer:
+      "We provide regular updates, progress reports, and use project management tools where you can track milestones, provide feedback, and communicate with the team in real-time.",
+  },
+  {
+    question: "Who can recommend your software agency?",
+    answer:
+      "We have numerous satisfied clients across various industries. You can check our case studies and client testimonials on our website, or we can provide references upon request.",
+  },
+];
