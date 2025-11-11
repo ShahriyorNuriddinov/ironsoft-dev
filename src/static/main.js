@@ -34,3 +34,50 @@ export let project = [
     title: "Corporate website for an assemble modular houses enterprise",
   },
 ];
+export let blog = [
+  {
+    id: 1,
+    img: "https://raw.githubusercontent.com/ShahriyorNuriddinov/imgs/main/1.png",
+    title: "IKEA.com — the problems with static content",
+    smalltitle: "Gustaf Nilsson Kotte in Flat Pack Tech",
+    about:
+      "In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce platform…",
+    date: "12.08.23",
+  },
+  {
+    id: 2,
+    img: "https://raw.githubusercontent.com/ShahriyorNuriddinov/imgs/main/2.png",
+    title: "IKEA.com — the problems with static content",
+    smalltitle: "Gustaf Nilsson Kotte in Flat Pack Tech",
+    about:
+      "In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce platform…",
+    date: "12.08.23",
+  },
+  {
+    id: 3,
+    img: "https://raw.githubusercontent.com/ShahriyorNuriddinov/imgs/main/3.png",
+    title: "IKEA.com — the problems with static content",
+    smalltitle: "Gustaf Nilsson Kotte in Flat Pack Tech",
+    about:
+      "In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce platform…",
+    date: "12.08.23",
+  },
+  {
+    id: 4,
+    img: "https://raw.githubusercontent.com/ShahriyorNuriddinov/imgs/main/4.png",
+    title: "IKEA.com — the problems with static content",
+    smalltitle: "Gustaf Nilsson Kotte in Flat Pack Tech",
+    about:
+      "In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce platform…",
+    date: "12.08.23",
+  },
+  {
+    id: 5,
+    img: "https://raw.githubusercontent.com/ShahriyorNuriddinov/imgs/main/5.png",
+    title: "IKEA.com — the problems with static content",
+    smalltitle: "Gustaf Nilsson Kotte in Flat Pack Tech",
+    about:
+      "In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce platform…",
+    date: "12.08.23",
+  },
+];
