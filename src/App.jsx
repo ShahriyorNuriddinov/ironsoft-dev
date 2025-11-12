@@ -7,6 +7,7 @@ import Servises from "./components/Servises";
 import Blogs from "./components/Blogs";
 import Faq from "./components/Faq";
 import Tellus from "./components/Tellus";
+import Footer from "./components/footer";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Blogs />
       <Faq />
       <Tellus />
+      <Footer />
     </div>
   );
 };
